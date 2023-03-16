@@ -7,8 +7,8 @@ To use this project, you'll need to have Rust installed on your machine. You can
 Once Rust is installed, clone this repository and navigate to the project directory in your terminal:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/github-activity-rust.git
-cd github-activity-rust
+git clone https://github.com/mtclinton/github-activity-rust.git
+cd github-activity
 ```
 
 ## Usage
